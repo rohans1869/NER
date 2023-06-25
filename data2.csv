@@ -1,0 +1,22 @@
+Sentence #,Word,POS,Tag
+Sentence: 1,where,,loc
+,is,,O
+,asset,,ast
+,11112,,ast_num
+Sentence: 2,where,,loc
+,is,,O
+,asset,,ast
+,11112,,ast_num
+,located,,loc
+Sentence: 3,where,,loc
+,can,,O
+,I,,O
+,find,,O
+,asset,,ast
+,11112,,ast_num
+,,,
+Sentence: 4,11112,,ast_num
+,asset,,ast
+,where,,loc
+,is,,O
+,it,,O
